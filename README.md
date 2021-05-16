@@ -1,6 +1,6 @@
 # lazarus-docker
 
-[![Build Status](https://drone.delphi-sucks.de/api/badges/Sebastian/lazarus-docker/status.svg)](https://drone.delphi-sucks.de/Sebastian/lazarus-docker)
+[![Build Status](https://drone.delphi-sucks.de/api/badges/Sebastian/lazarus-docker/status.svg?ref=refs/heads/2.0.12)](https://drone.delphi-sucks.de/Sebastian/lazarus-docker)
 
 Lazarus/FreePascal build environment for Continous Integration (CI).
 
