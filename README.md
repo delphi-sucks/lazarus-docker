@@ -8,11 +8,13 @@ Lazarus/FreePascal build environment for Continous Integration (CI).
 
 Use the command `lazbuild` to compile your project:
 
-```
+```bash
 lazbuild path/to/project.lpi 
 ```
 
 ## Example
+
+### Drone CI
 
 ```yaml
 kind: pipeline
@@ -28,5 +30,4 @@ steps:
   image: delphisucks/lazarus:latest
   commands:
   - lazbuild path/to/project.lpi
-
 ```

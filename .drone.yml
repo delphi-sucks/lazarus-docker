@@ -11,6 +11,4 @@ steps:
     password:
       from_secret: docker_password
     repo: delphisucks/lazarus
-    tags:
-      - latest
     dry_run: true
